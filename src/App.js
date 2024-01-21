@@ -7,6 +7,7 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 import { BrowserRouter } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
+import Hero from "./components/Hero";
 
 function App() {
   useEffect(() => {
@@ -19,6 +20,7 @@ function App() {
   return (
     <BrowserRouter>
       <Navbar />
+      <Hero />
       {/* <Slider /> */}
     </BrowserRouter>
   );
