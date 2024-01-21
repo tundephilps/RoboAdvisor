@@ -9,6 +9,9 @@ import { BrowserRouter } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero";
 import Features from "./components/Features";
+import Promo from "./components/Promo";
+import NeedUs from "./components/NeedUs";
+import FAQ from "./components/FAQ";
 
 function App() {
   useEffect(() => {
@@ -24,6 +27,11 @@ function App() {
       <Hero />
 
       <Features />
+
+      <Promo />
+
+      <NeedUs />
+      <FAQ />
       {/* <Slider /> */}
     </BrowserRouter>
   );
