@@ -24,18 +24,19 @@ function App() {
 
   return (
     <BrowserRouter>
-      <Navbar />
-      <Hero />
-      <Slider />
-      <Features />
+      <div className="overflow-hidden">
+        <Navbar />
+        <Hero />
+        <Slider />
+        <Features />
 
-      <Promo />
+        <Promo />
 
-      <NeedUs />
-      <FAQ />
+        <NeedUs />
+        <FAQ />
 
-      <Footer />
-      {/* <Slider /> */}
+        <Footer />
+      </div>
     </BrowserRouter>
   );
 }

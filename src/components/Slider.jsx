@@ -41,7 +41,7 @@ function Slider() {
   }, []);
 
   return (
-    <div className="py-12 min-h-[90vh] bg-[#080312] px-24 overflow-hidden">
+    <div className="py-12 min-h-[90vh] bg-[#080312] px-24 sm:overflow-hidden">
       <h1 className="text-white text-3xl flex mx-auto pb-4 justify-center text-center">
         Make Smarter Decisions based on Risks you can take
       </h1>
