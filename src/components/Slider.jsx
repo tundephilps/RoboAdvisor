@@ -41,12 +41,12 @@ function Slider() {
   }, []);
 
   return (
-    <div className="py-12 min-h-[90vh] bg-[#080312] px-24">
-      <h1 className="text-white text-3xl flex mx-auto pb-4 justify-center">
+    <div className="py-12 min-h-[90vh] bg-[#080312] px-24 overflow-hidden">
+      <h1 className="text-white text-3xl flex mx-auto pb-4 justify-center text-center">
         Make Smarter Decisions based on Risks you can take
       </h1>
-      <div className="">
-        <div className="bg-white p-4 w-[40%] flex flex-col items-center mx-auto rounded-md">
+      <div className="overflow-x-hidden">
+        <div className="bg-white p-4 w-[70%] lg:w-[40%] flex flex-col items-center mx-auto rounded-md">
           <p className="">Tolerance: {rangeValue}</p>
           <input
             type="range"
@@ -58,7 +58,7 @@ function Slider() {
           />
         </div>
 
-        <div className="content py-12" data-aos="fade-right">
+        <div className="content py-12 overflow-x-hidden" data-aos="fade-right">
           {!isLoading ? (
             currentData.map(
               (item, key) =>
