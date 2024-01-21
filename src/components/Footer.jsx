@@ -44,7 +44,7 @@ const Footer = () => {
               <div class="mt-6 flex justify-center gap-4 lg:justify-start">
                 <a
                   class="text-gray-700 transition hover:text-gray-700/75"
-                  href=""
+                  href="/#"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -66,7 +66,7 @@ const Footer = () => {
 
                 <a
                   class="text-gray-700 transition hover:text-gray-700/75"
-                  href=""
+                  href="/#"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -88,7 +88,7 @@ const Footer = () => {
 
                 <a
                   class="text-gray-700 transition hover:text-gray-700/75"
-                  href=""
+                  href="/#"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -106,7 +106,7 @@ const Footer = () => {
 
                 <a
                   class="text-gray-700 transition hover:text-gray-700/75"
-                  href=""
+                  href="/#"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -128,7 +128,7 @@ const Footer = () => {
 
                 <a
                   class="text-gray-700 transition hover:text-gray-700/75"
-                  href=""
+                  href="/#"
                   target="_blank"
                   rel="noreferrer"
                 >

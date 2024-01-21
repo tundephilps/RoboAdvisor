@@ -62,7 +62,7 @@ const Promo = () => {
 
           <div data-aos="zoom-in-left">
             <img
-              alt="Image"
+              alt="tax"
               //   className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
               height="100%"
               src={tax}
