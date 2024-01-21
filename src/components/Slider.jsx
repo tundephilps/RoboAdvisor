@@ -41,13 +41,16 @@ function Slider() {
   }, []);
 
   return (
-    <div className="App">
-      <div className="container">
-        <div className="rangeBox">
-          <p className="tolerance">Tolerance: {rangeValue}</p>
+    <div className="py-12 min-h-[90vh] bg-[#080312] px-24">
+      <h1 className="text-white text-3xl flex mx-auto pb-4 justify-center">
+        Make Smarter Decisions based on Risks you can take
+      </h1>
+      <div className="">
+        <div className="bg-white p-4 w-[40%] flex flex-col items-center mx-auto rounded-md">
+          <p className="">Tolerance: {rangeValue}</p>
           <input
             type="range"
-            className="range"
+            className=" mx-auto"
             onChange={handleSliderChange}
             max={10}
             min={0}
@@ -55,7 +58,7 @@ function Slider() {
           />
         </div>
 
-        <div className="content">
+        <div className="content py-12" data-aos="fade-right">
           {!isLoading ? (
             currentData.map(
               (item, key) =>

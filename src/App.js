@@ -12,6 +12,7 @@ import Features from "./components/Features";
 import Promo from "./components/Promo";
 import NeedUs from "./components/NeedUs";
 import FAQ from "./components/FAQ";
+import Footer from "./components/Footer";
 
 function App() {
   useEffect(() => {
@@ -25,13 +26,15 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Hero />
-
+      <Slider />
       <Features />
 
       <Promo />
 
       <NeedUs />
       <FAQ />
+
+      <Footer />
       {/* <Slider /> */}
     </BrowserRouter>
   );
