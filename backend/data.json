@@ -1,0 +1,502 @@
+[{
+  "_id": {
+    "$oid": "65aab2ddd2d829b419f85162"
+  },
+  "datas": [
+    {
+      "tolerance": 0,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 18
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 4
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 2
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 7
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 35
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 15
+        },
+        {
+          "name": "Commodities",
+          "percentage": 7
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 12
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 1,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 20
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 5
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 3
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 7
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 35
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 6
+        },
+        {
+          "name": "Commodities",
+          "percentage": 12
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 12
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 2,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 23
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 5
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 4
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 7
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 35
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 14
+        },
+        {
+          "name": "Commodities",
+          "percentage": 12
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 0
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 3,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 26
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 6
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 4
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 7
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 35
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 10
+        },
+        {
+          "name": "Commodities",
+          "percentage": 12
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 0
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 4,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 29
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 7
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 5
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 6
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 35
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 6
+        },
+        {
+          "name": "Commodities",
+          "percentage": 12
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 0
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 5,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 31
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 8
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 6
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 5
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 35
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 3
+        },
+        {
+          "name": "Commodities",
+          "percentage": 12
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 0
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 6,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 35
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 8
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 7
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 3
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 35
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 12
+        },
+        {
+          "name": "Commodities",
+          "percentage": 0
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 0
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 7,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 45
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 13
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 12
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 7
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 23
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 0
+        },
+        {
+          "name": "Commodities",
+          "percentage": 0
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 0
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 8,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 45
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 15
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 15
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 9
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 16
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 0
+        },
+        {
+          "name": "Commodities",
+          "percentage": 0
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 0
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 9,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 45
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 18
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 17
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 11
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 9
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 0
+        },
+        {
+          "name": "Commodities",
+          "percentage": 0
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 0
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "tolerance": 10,
+      "data": [
+        {
+          "name": "Nigerian Stocks",
+          "percentage": 45
+        },
+        {
+          "name": "Foreign Stocks",
+          "percentage": 20
+        },
+        {
+          "name": "Tech Stocks",
+          "percentage": 19
+        },
+        {
+          "name": "Emerging Stocks",
+          "percentage": 14
+        },
+        {
+          "name": "Nigerian Bonds",
+          "percentage": 2
+        },
+        {
+          "name": "Foreign Bonds",
+          "percentage": 0
+        },
+        {
+          "name": "Commodities",
+          "percentage": 0
+        },
+        {
+          "name": "Real Estate",
+          "percentage": 0
+        },
+        {
+          "name": "T-Bills",
+          "percentage": 0
+        },
+        {
+          "name": "Alternative",
+          "percentage": 0
+        }
+      ]
+    }
+  ]
+}]
