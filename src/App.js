@@ -8,6 +8,7 @@ import { useEffect } from "react";
 import { BrowserRouter } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero";
+import Features from "./components/Features";
 
 function App() {
   useEffect(() => {
@@ -21,6 +22,8 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Hero />
+
+      <Features />
       {/* <Slider /> */}
     </BrowserRouter>
   );
